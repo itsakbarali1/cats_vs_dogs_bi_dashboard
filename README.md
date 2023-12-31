@@ -33,4 +33,4 @@ You can filter the data by states from the dropdown filter or by clicking on the
 I hope you find this dashboard useful and informative. If you have any questions or feedback, please feel free to open an issue or submit a pull request.
 
 ## Author
-[Mohammed Yahya Ansari](https://www.linkedin.com/in/yahya-ansari/)
+- [Akbar Ali Shaikh]
